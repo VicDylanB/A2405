@@ -6,6 +6,7 @@ import datetime
 import platform
 import os
 
+os.system('cls')
 print("""
 1. Enter the IP range. 
 2. Enter the first number to ping.
